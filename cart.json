@@ -1,0 +1,165 @@
+{
+    "globalData": {
+        "assocs": [
+            [
+                "s_2255468190_0"
+            ]
+        ],
+        "bundRela": {
+            "list": [
+                {
+                    "bundles": [
+                        "s_3979494656"
+                    ],
+                    "id": 3979494656,
+                    "name": "3979494656",
+                    "title": "荔枝实验室Litchi"
+                }
+            ]
+        },
+        "cartFrom": "main_site",
+        "cartUrl": "为了便于使用,这个购物车只保留一些内容用于确定格式",
+        "carts2": true,
+        "currentPageSize": 30,
+        "currentTime": 1668957390733,
+        "diffTairCount": 0,
+        "endNotEqualTime": "2022-11-19 11:28:54",
+        "h": "delete",
+        "invalidSize": 1,
+        "isAllBItem": false,
+        "isAllCItem": false,
+        "isComboSubmit": true,
+        "isDouble11Pre": false,
+        "isEndPage": false,
+        "isNext": true,
+        "login": false,
+        "openNoAttenItem": false,
+        "page": 2,
+        "promotionCount": 0,
+        "quickSettlement": false,
+        "showGodDialogue": false,
+        "showRedEnvelope": false,
+        "startTime": "2022-11-17 17:38:26",
+        "stockTenseCount": 0,
+        "totalSize": 165,
+        "tpId": 0,
+        "villagerSearchAction": "current",
+        "villagerViewCartsCount": 0,
+        "weakenCart": false
+    },
+    "list": [
+        {
+            "bundles": [
+                {
+                    "id": "s_3979494656_0",
+                    "orders": [
+                        {
+                            "amount": {
+                                "demand": 0,
+                                "limit": 100000000,
+                                "max": 82,
+                                "multiple": 1,
+                                "now": 2,
+                                "supply": 0
+                            },
+                            "attr": ";op:980;cityCode:310115;itemExtra:{};",
+                            "cartActiveInfo": {
+                                "cartBcParams": "buyerCondition~0~~dpbUpgrade~null~~cartCreateTime~1668710362463~~icart~2",
+                                "endTime": 0,
+                                "isDefault": false,
+                                "type": 0,
+                                "wantStatus": 0
+                            },
+                            "cartId": "4561444369965",
+                            "checked": false,
+                            "createTime": 1668710362463,
+                            "cumulativeSales": 0,
+                            "extInfo": {
+                                "itemUnitPrice": "980",
+                                "isShowPriceDownLogo": "true"
+                            },
+                            "gmtModifiedTime": 1668710362463,
+                            "id": "4561444369965",
+                            "isAttention": false,
+                            "isCod": false,
+                            "isDouble11": false,
+                            "isDouble11halfDiscount": false,
+                            "isPreSell": false,
+                            "isSellerPayPostfee": false,
+                            "isValid": true,
+                            "itemIcon": {
+                                "CART_XIAOBAO": [
+                                    {
+                                        "img": "//img.alicdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png",
+                                        "link": "//www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                                        "title": "消费者保障服务，卖家承诺商品如实描述"
+                                    },
+                                    {
+                                        "img": "//img.alicdn.com/tps/i1/T1EQA5FpVgXXceOP_X-16-16.jpg",
+                                        "link": "//xiaobao.taobao.com/contract/item_service.htm?scm=1010.100.100.1",
+                                        "title": "7天无理由"
+                                    }
+                                ]
+                            },
+                            "itemId": "693243739543",
+                            "leafCategory": 50004407,
+                            "pic": "//img.alicdn.com/bao/uploaded/i2/3979494656/O1CN017aZ5Oj1kGUsOgDT40_!!3979494656.jpg_sum.jpg",
+                            "preSellStatus": "0",
+                            "preSellText": "",
+                            "preference": false,
+                            "price": {
+                                "actual": 0,
+                                "descend": 0,
+                                "extraCharges": 0,
+                                "finalpay": 0,
+                                "now": 980,
+                                "oriPromo": 980,
+                                "origin": 980,
+                                "prepay": 0,
+                                "save": 0,
+                                "shardFee": 0,
+                                "sum": 1960
+                            },
+                            "seller": "diorsziyue_kai",
+                            "sellerId": 3979494656,
+                            "shipTime": "付款后10天",
+                            "shopId": "352502438",
+                            "shopName": "荔枝实验室LitchiLab",
+                            "shopUrl": "//store.taobao.com/shop/view_shop.htm?user_number_id=3979494656",
+                            "skuId": "4916386612741",
+                            "skuStatus": 2,
+                            "skus": {
+                                "颜色分类": "最新最热炫彩亚克力钥匙扣[11.25前发货]"
+                            },
+                            "title": "荔枝实验室-Trans主题钥匙扣舞萌DX迪拉熊滴蜡熊蓝粉白可爱小雷达",
+                            "toBuy": "taobao",
+                            "toBuyInfo": {
+                                "attributes": {
+                                    "itemExtra": "{}"
+                                }
+                            },
+                            "url": "//item.taobao.com/item.htm?id=693243739543",
+                            "weight": 0
+                        }
+                    ],
+                    "type": "shop",
+                    "valid": true
+                }
+            ],
+            "gmtCompare": 1668710362463,
+            "hasPriceVolume": false,
+            "host": "C",
+            "id": "s_3979494656",
+            "isGoldSeller": false,
+            "isQiyeSeller": false,
+            "isValid": true,
+            "seller": "diorsziyue_kai",
+            "sellerId": "3979494656",
+            "shopId": 352502438,
+            "title": "荔枝实验室Litchi",
+            "type": "shop",
+            "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=3979494656"
+        }
+    ],
+    "success": true
+}
